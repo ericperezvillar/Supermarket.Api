@@ -1,0 +1,21 @@
+###############
+#    folder   #
+###############
+/**/DROP/
+/**/TEMP/
+/**/packages/
+/**/bin/
+/**/obj/
+_site
+
+
+###############
+#  temp file  #
+###############
+*.yml
+.manifest
+log.txt
+
+
+# Visual Studio 2015/2017 cache/options directory
+.vs/
